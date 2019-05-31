@@ -1,0 +1,14 @@
+c:\users\ddm.17\source\repos\List\List\bin\Debug\List.exe.config
+c:\users\ddm.17\source\repos\List\List\bin\Debug\List.exe
+c:\users\ddm.17\source\repos\List\List\bin\Debug\List.pdb
+c:\users\ddm.17\source\repos\List\List\obj\Debug\List.csprojResolveAssemblyReference.cache
+c:\users\ddm.17\source\repos\List\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+c:\users\ddm.17\source\repos\List\List\obj\Debug\List.exe
+c:\users\ddm.17\source\repos\List\List\obj\Debug\List.pdb
+C:\Users\Factory Burger\Desktop\C#\List\List\bin\Debug\List.exe.config
+C:\Users\Factory Burger\Desktop\C#\List\List\bin\Debug\List.exe
+C:\Users\Factory Burger\Desktop\C#\List\List\bin\Debug\List.pdb
+C:\Users\Factory Burger\Desktop\C#\List\List\obj\Debug\List.csprojResolveAssemblyReference.cache
+C:\Users\Factory Burger\Desktop\C#\List\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+C:\Users\Factory Burger\Desktop\C#\List\List\obj\Debug\List.exe
+C:\Users\Factory Burger\Desktop\C#\List\List\obj\Debug\List.pdb

@@ -1,0 +1,14 @@
+C:\Users\DDM.17\source\repos\DualLinkedList\DualLinkedList\bin\Debug\DualLinkedList.exe.config
+C:\Users\DDM.17\source\repos\DualLinkedList\DualLinkedList\bin\Debug\DualLinkedList.exe
+C:\Users\DDM.17\source\repos\DualLinkedList\DualLinkedList\bin\Debug\DualLinkedList.pdb
+C:\Users\DDM.17\source\repos\DualLinkedList\DualLinkedList\obj\Debug\DualLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\DDM.17\source\repos\DualLinkedList\DualLinkedList\obj\Debug\DualLinkedList.exe
+C:\Users\DDM.17\source\repos\DualLinkedList\DualLinkedList\obj\Debug\DualLinkedList.pdb
+C:\Users\DDM.17\source\repos\DualLinkedList\DualLinkedList\obj\Debug\DualLinkedList.csprojResolveAssemblyReference.cache
+C:\Users\DDM.17.FREE.000\source\repos\DualLinkedList\DualLinkedList\bin\Debug\DualLinkedList.exe.config
+C:\Users\DDM.17.FREE.000\source\repos\DualLinkedList\DualLinkedList\bin\Debug\DualLinkedList.exe
+C:\Users\DDM.17.FREE.000\source\repos\DualLinkedList\DualLinkedList\bin\Debug\DualLinkedList.pdb
+C:\Users\DDM.17.FREE.000\source\repos\DualLinkedList\DualLinkedList\obj\Debug\DualLinkedList.csprojResolveAssemblyReference.cache
+C:\Users\DDM.17.FREE.000\source\repos\DualLinkedList\DualLinkedList\obj\Debug\DualLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\DDM.17.FREE.000\source\repos\DualLinkedList\DualLinkedList\obj\Debug\DualLinkedList.exe
+C:\Users\DDM.17.FREE.000\source\repos\DualLinkedList\DualLinkedList\obj\Debug\DualLinkedList.pdb
