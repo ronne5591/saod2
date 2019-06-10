@@ -1,0 +1,20 @@
+c:\users\factory burger\source\repos\Hash\Hash\bin\Debug\Hash.exe.config
+c:\users\factory burger\source\repos\Hash\Hash\bin\Debug\Hash.exe
+c:\users\factory burger\source\repos\Hash\Hash\bin\Debug\Hash.pdb
+c:\users\factory burger\source\repos\Hash\Hash\obj\Debug\Hash.csprojResolveAssemblyReference.cache
+c:\users\factory burger\source\repos\Hash\Hash\obj\Debug\Hash.Form1.resources
+c:\users\factory burger\source\repos\Hash\Hash\obj\Debug\Hash.Properties.Resources.resources
+c:\users\factory burger\source\repos\Hash\Hash\obj\Debug\Hash.csproj.GenerateResource.cache
+c:\users\factory burger\source\repos\Hash\Hash\obj\Debug\Hash.csproj.CoreCompileInputs.cache
+c:\users\factory burger\source\repos\Hash\Hash\obj\Debug\Hash.exe
+c:\users\factory burger\source\repos\Hash\Hash\obj\Debug\Hash.pdb
+C:\Users\DDM.17\Downloads\Hash\Hash\bin\Debug\Hash.exe.config
+C:\Users\DDM.17\Downloads\Hash\Hash\bin\Debug\Hash.exe
+C:\Users\DDM.17\Downloads\Hash\Hash\bin\Debug\Hash.pdb
+C:\Users\DDM.17\Downloads\Hash\Hash\obj\Debug\Hash.csprojResolveAssemblyReference.cache
+C:\Users\DDM.17\Downloads\Hash\Hash\obj\Debug\Hash.Form1.resources
+C:\Users\DDM.17\Downloads\Hash\Hash\obj\Debug\Hash.Properties.Resources.resources
+C:\Users\DDM.17\Downloads\Hash\Hash\obj\Debug\Hash.csproj.GenerateResource.Cache
+C:\Users\DDM.17\Downloads\Hash\Hash\obj\Debug\Hash.csproj.CoreCompileInputs.cache
+C:\Users\DDM.17\Downloads\Hash\Hash\obj\Debug\Hash.exe
+C:\Users\DDM.17\Downloads\Hash\Hash\obj\Debug\Hash.pdb
